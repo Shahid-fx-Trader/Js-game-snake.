@@ -5,8 +5,7 @@ Designed with a clean neon UI and smooth gameplay experience.
 
 ## 🖼️ Preview
 
-<img url =(
-)
+<img url =(blob:https://web.whatsapp.com/c6a1e170-2524-4b3c-9769-074808772777)
 
 ---
 
