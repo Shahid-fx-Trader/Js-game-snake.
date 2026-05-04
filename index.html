@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Snake Game</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Share+Tech+Mono&family=Orbitron:wght@400;700;900&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <main>
+      <h1 class="title">SNAKE</h1>
+      <section>
+        <div class="info">
+          <div class="stat-box">
+            <span class="stat-label">HIGH SCORE</span>
+            <span class="stat-value" id="high-score">000</span>
+          </div>
+          <div class="stat-box">
+            <span class="stat-label">SCORE</span>
+            <span class="stat-value" id="score">000</span>
+          </div>
+          <div class="stat-box">
+            <span class="stat-label">TIME</span>
+            <span class="stat-value" id="time">00:00</span>
+          </div>
+        </div>
+        <div class="board" id="board"></div>
+        <div class="controls">
+          <p class="controls-hint">
+            ARROW KEYS to move &nbsp;|&nbsp;
+            <span id="status-text">Press any arrow to start</span>
+          </p>
+        </div>
+      </section>
+    </main>
+    <script src="script.js"></script>
+  </body>
+</html>
