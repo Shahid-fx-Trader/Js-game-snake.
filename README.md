@@ -5,8 +5,8 @@ Designed with a clean neon UI and smooth gameplay experience.
 
 ## 🖼️ Preview
 
-<img url =((https://chatgpt.com/backend-api/estuary/content?id=file_000000002cb87208a0c64ab3e683bb02&ts=493861&p=fs&cid=1&sig=e3b56d6a9f5270e036a535e49702b401f9f978df57d1324b69e79c2e4d2982b8&v=0))
-
+<img url =(<img width="1600" height="765" alt="WhatsApp Image 2026-05-04 at 7 10 24 PM" src="https://github.com/user-attachments/assets/2dfca74a-40b2-4fba-b632-097f44fff4a9" />
+)
 ---
 
 ## ✨ Features
